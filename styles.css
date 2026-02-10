@@ -157,7 +157,7 @@ img {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('https://placehold.co/1920x1080/1a1a1a/d4af37?text=Hero+Image+Roofing') no-repeat center center/cover;
+    background: url('../assets/images/hero.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
